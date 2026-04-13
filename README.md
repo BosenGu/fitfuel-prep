@@ -2,6 +2,11 @@
 
 FitFuel Prep 是一个面向硬核健身和备餐场景的 AI 营养产品原型。项目来自 Figma 导出代码，并在此版本中整理为一个包含 **网页版官网** 和 **移动端 App 原型** 的 Vite + React 展示项目。
 
+## Live Demo
+
+- 官网首页：https://fitfuel-prep.vercel.app
+- 移动端 App 原型：https://fitfuel-prep.vercel.app/app
+
 ## 两个展示入口
 
 | 路径 | 定位 | 说明 |
@@ -11,8 +16,8 @@ FitFuel Prep 是一个面向硬核健身和备餐场景的 AI 营养产品原型
 
 ## 推荐演示路径
 
-1. 打开 `/`，先浏览 FitFuel 的网页版官网，理解产品定位和能力。
-2. 点击“体验移动端原型”，进入 `/app`。
+1. 打开 https://fitfuel-prep.vercel.app，先浏览 FitFuel 的网页版官网，理解产品定位和能力。
+2. 点击“体验移动端原型”，进入 https://fitfuel-prep.vercel.app/app。
 3. 在移动端原型中体验：Dashboard → Profile → Store → SOP → Calendar。
 4. 在 Store 页面查看扩充后的 demo 食材库、宏量营养进度和 AI 智能平替弹层。
 
