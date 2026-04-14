@@ -6,6 +6,7 @@ FitFuel Prep 是一个面向硬核健身和备餐场景的 AI 营养产品原型
 
 - 官网首页：https://fitfuel-prep.vercel.app
 - 移动端 App 原型：https://fitfuel-prep.vercel.app/app
+- AI Agent: https://www.coze.cn/store/agent/7626560084340277311?bot_id=true&bid=6jnfgrqns100f 
 
 ## 两个展示入口
 
